@@ -13,13 +13,11 @@
 
 🛠️ Skills & Tools
 
-Frontend: HTML, CSS, JavaScript, Typescript (and more to come!)
+Frontend: HTML, CSS, JavaScript, Typescript, and React.
 
-Editor: Neovim with LazyVim setup
+Editor: Neovim
 
 OS: Arch Linux (btw 😉)
-
-Terminal: iTerm2 on macOS
 
 📫 Let's Connect!
 
